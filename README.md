@@ -2,8 +2,8 @@ korAllAreaXY
 
 
 
-<script src="경로/korAllAreaXY.mix.js"></script>
-<script type="text/javascript">
+&gt;script src="경로/korAllAreaXY.mix.js"&lt;&gt;/script&lt;
+&gt;script type="text/javascript"&lt;
 　getArea.setSido("서울특별시"); 
 　var mapObj = getArea.getObj(); 
 　 
@@ -15,4 +15,4 @@ korAllAreaXY
 　// 시/군/구 가 필요할경우 아래처럼 하시면 됩니다. 
 
 　var gugun = mapObj['강남구']
-</script>　
+&gt;/script&lt;　
