@@ -1,5 +1,6 @@
 korAllAreaXY
-============
+
+
 <script src="경로/korAllAreaXY.mix.js"></script>
 <script type="text/javascript">
 　getArea.setSido("서울특별시"); 
