@@ -1,5 +1,5 @@
 korAllAreaXY
-
+https://github.com/SeonGyuHwang/korAllAreaXY
 
 
 &lt;script src="경로/korAllAreaXY.mix.js"&gt;&lt;/script&gt;<br/>
