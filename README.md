@@ -1,4 +1,3 @@
-korAllAreaXY
 https://github.com/SeonGyuHwang/korAllAreaXY
 
 
